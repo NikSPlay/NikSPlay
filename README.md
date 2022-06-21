@@ -3,7 +3,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=NikSPlay&show_icons=true&&theme=tokyonight" style="max-width: 100%;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9F%91%80+Beginner+Python+programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9F%91%80+Beginner+Python+developers.)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
